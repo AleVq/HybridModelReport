@@ -1,3 +1,3 @@
-,accuracy,precision,recall,f measure
-A,0.968118,0.938769,0.968118,0.952866
-B,0.939369,0.905466,0.939369,0.916812
+dataset,accuracy,precision,recall,f measure
+A,0.96976,0.95107,0.96976,0.95651
+B,0.94877,0.91794,0.94877,0.92858

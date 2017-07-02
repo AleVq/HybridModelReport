@@ -1,0 +1,3 @@
+dataset,mean hybrid error,mean neural network error
+A,0.0302398989899,0.030303030303
+B,0.0512286324786,0.0469551282051
